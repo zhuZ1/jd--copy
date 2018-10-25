@@ -1,2 +1,2 @@
 # jd--copy
-仿京东页面，本地上传
+![Image text]https://raw.githubusercontent.com/zhuZ1/jd--copy/master/img/jd.png
